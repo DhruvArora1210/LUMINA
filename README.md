@@ -360,7 +360,7 @@ Set `CAMERA_MODE=ip` and `CAMERA_IP_URL=<url>` in `.env`. The stream reconnects 
 
 ```bash
 # 1. Clone the repository
-git clone <repository-url>
+git clone <https://github.com/DhruvArora1210/LUMINA>
 cd lumina
 
 # 2. Create and activate a virtual environment
