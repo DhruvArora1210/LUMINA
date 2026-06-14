@@ -2,8 +2,8 @@
 Lumina v5 — All Agents  (EventBus-native)
 
 Architecture generation: v5
-Compatible with: orchestrator_fixed.py (v5 bootstrap)
-Replaces: agents-5-fixed__1_.py  (which is the v4 procedural design)
+Compatible with: orchestrator.py (v5 bootstrap)
+Replaces: agents.py  (which is the v4 procedural design)
 
 WHAT CHANGED FROM v4 → v5
 ──────────────────────────
